@@ -1,0 +1,27 @@
+{
+  "name": "ejercicio-1",
+  "version": "1.0.0",
+  "description": "Primer proyecto en JavaScript usando node, en el curso de Open BootCamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "saludar": "node Ejercicio1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdwinEcheverry/JavaScript-B-sico-Open-Bootcamp.git"
+  },
+  "keywords": [
+    "Ejercicio1",
+    "en",
+    "JavaSript"
+  ],
+  "author": "Edwin Echeverry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdwinEcheverry/JavaScript-B-sico-Open-Bootcamp/issues"
+  },
+  "homepage": "https://github.com/EdwinEcheverry/JavaScript-B-sico-Open-Bootcamp#readme"
+}

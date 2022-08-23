@@ -1,0 +1,23 @@
+{
+  "name": "tarea1",
+  "version": "1.0.0",
+  "description": "node ",
+  "main": "index.js",
+  "scripts": {
+    "mensaje":"node Tarea1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdwinEcheverry/JavaScript-B-sico-Open-Bootcamp.git"
+  },
+  "keywords": [
+    "tarea1_JavaScript"
+  ],
+  "author": "Edwin Echeverry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdwinEcheverry/JavaScript-B-sico-Open-Bootcamp/issues"
+  },
+  "homepage": "https://github.com/EdwinEcheverry/JavaScript-B-sico-Open-Bootcamp#readme"
+}
