@@ -43,5 +43,5 @@ console.log(lista)
 
 //- Una nueva lista que concatene la lista de directores y la lista de los títulos (utilizando el factor de propagación)
 
-const listaNueva = [Titulos, Directores];
+const listaNueva = [...Titulos, ...Directores];
 console.log(listaNueva)
