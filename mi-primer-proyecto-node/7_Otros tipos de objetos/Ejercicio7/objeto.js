@@ -1,6 +1,4 @@
-    
-
-    
+        
 //- Un objeto con tus datos personales (nombre, apellido, edad, altura, eresDesarrollador)
 let objDatos = 
     {
